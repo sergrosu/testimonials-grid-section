@@ -8,5 +8,5 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-testimonial-page-based-on-css-grid-gobxnFnbAN)
+- Live Site URL: [GitHub Pages](https://sergrosu.github.io/testimonials-grid-section/)
